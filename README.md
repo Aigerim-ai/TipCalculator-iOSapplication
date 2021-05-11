@@ -1,2 +1,2 @@
 # TipCalculator-iOSapplication
-Tip calculator
+Tip calculator application is written on Swift
